@@ -1,0 +1,14 @@
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\bin\Debug\net8.0\tp1.cs.exe
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\bin\Debug\net8.0\tp1.cs.deps.json
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\bin\Debug\net8.0\tp1.cs.runtimeconfig.json
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\bin\Debug\net8.0\tp1.cs.dll
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\bin\Debug\net8.0\tp1.cs.pdb
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\tp1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\tp1.cs.AssemblyInfoInputs.cache
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\tp1.cs.AssemblyInfo.cs
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\tp1.cs.csproj.CoreCompileInputs.cache
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\tp1.cs.dll
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\refint\tp1.cs.dll
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\tp1.cs.pdb
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\tp1.cs.genruntimeconfig.cache
+C:\Users\chofi\source\repos\tp1.cs\tp1.cs\obj\Debug\net8.0\ref\tp1.cs.dll
